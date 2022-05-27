@@ -1,0 +1,9 @@
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW8\Spreadsheet_LogicEngine_DLL\bin\Debug\netstandard2.0\Spreadsheet_LogicEngine_DLL.deps.json
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW8\Spreadsheet_LogicEngine_DLL\bin\Debug\netstandard2.0\Spreadsheet_LogicEngine_DLL.dll
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW8\Spreadsheet_LogicEngine_DLL\bin\Debug\netstandard2.0\Spreadsheet_LogicEngine_DLL.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW8\Spreadsheet_LogicEngine_DLL\obj\Debug\netstandard2.0\Spreadsheet_LogicEngine_DLL.csprojAssemblyReference.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW8\Spreadsheet_LogicEngine_DLL\obj\Debug\netstandard2.0\Spreadsheet_LogicEngine_DLL.AssemblyInfoInputs.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW8\Spreadsheet_LogicEngine_DLL\obj\Debug\netstandard2.0\Spreadsheet_LogicEngine_DLL.AssemblyInfo.cs
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW8\Spreadsheet_LogicEngine_DLL\obj\Debug\netstandard2.0\Spreadsheet_LogicEngine_DLL.dll
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW8\Spreadsheet_LogicEngine_DLL\obj\Debug\netstandard2.0\Spreadsheet_LogicEngine_DLL.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW8\Spreadsheet_LogicEngine_DLL\obj\Debug\netstandard2.0\Spreadsheet_LogicEngine_DLL.csproj.CoreCompileInputs.cache
