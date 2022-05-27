@@ -1,0 +1,10 @@
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW3\HW3 Notepad\obj\Debug\HW3 Notepad.csprojAssemblyReference.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW3\HW3 Notepad\obj\Debug\HW3_Notepad.Form1.resources
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW3\HW3 Notepad\obj\Debug\HW3_Notepad.Properties.Resources.resources
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW3\HW3 Notepad\obj\Debug\HW3 Notepad.csproj.GenerateResource.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW3\HW3 Notepad\obj\Debug\HW3 Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW3\HW3 Notepad\bin\Debug\HW3 Notepad.exe.config
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW3\HW3 Notepad\bin\Debug\HW3 Notepad.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW3\HW3 Notepad\bin\Debug\HW3 Notepad.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW3\HW3 Notepad\obj\Debug\HW3 Notepad.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW3\HW3 Notepad\obj\Debug\HW3 Notepad.pdb
