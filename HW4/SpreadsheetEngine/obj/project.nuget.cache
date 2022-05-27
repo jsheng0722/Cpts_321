@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0TBBs7vzExNcKuVlbjKGWYRkubAp1gte0Zvz8DAyPRHCJ3iFeWkclF9mQKaPghccTVXzxDePBnrvDJFgpZW9ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jihui\\Documents\\Cpts_321\\cpts321-jsheng\\HW4\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jihui\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jihui\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
