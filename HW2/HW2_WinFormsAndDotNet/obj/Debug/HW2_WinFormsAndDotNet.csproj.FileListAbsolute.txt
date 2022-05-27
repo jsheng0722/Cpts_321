@@ -1,0 +1,13 @@
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\bin\Debug\HW2_WinFormsAndDotNet.exe.config
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\bin\Debug\HW2_WinFormsAndDotNet.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\bin\Debug\HW2_WinFormsAndDotNet.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\obj\Debug\HW2_WinFormsAndDotNet.csprojAssemblyReference.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\obj\Debug\HW2_WinFormsAndDotNet.Form1.resources
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\obj\Debug\HW2_WinFormsAndDotNet.Properties.Resources.resources
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\obj\Debug\HW2_WinFormsAndDotNet.csproj.GenerateResource.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\obj\Debug\HW2_WinFormsAndDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\obj\Debug\HW2_WinFormsAndDotNet.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\obj\Debug\HW2_WinFormsAndDotNet.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\bin\Debug\aa\HW2_WinFormsAndDotNet.resources.dll
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\obj\Debug\HW2_WinFormsAndDotNet.Form1.aa.resources
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW2\HW2_WinFormsAndDotNet\obj\Debug\aa\HW2_WinFormsAndDotNet.resources.dll
