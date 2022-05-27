@@ -1,0 +1,9 @@
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\SpreadsheetEngine\bin\Debug\netstandard2.0\SpreadsheetEngine.deps.json
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\SpreadsheetEngine\bin\Debug\netstandard2.0\SpreadsheetEngine.dll
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\SpreadsheetEngine\bin\Debug\netstandard2.0\SpreadsheetEngine.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.csprojAssemblyReference.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.AssemblyInfoInputs.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.AssemblyInfo.cs
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.dll
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.pdb

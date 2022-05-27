@@ -1,0 +1,14 @@
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\bin\Debug\Spreadsheet_Jihui_Sheng.exe.config
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\bin\Debug\Spreadsheet_Jihui_Sheng.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\bin\Debug\Spreadsheet_Jihui_Sheng.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\obj\Debug\Spreadsheet_Jihui_Sheng.csprojAssemblyReference.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\obj\Debug\Spreadsheet_Jihui_Sheng.Properties.Resources.resources
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\obj\Debug\Spreadsheet_Jihui_Sheng.csproj.GenerateResource.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\obj\Debug\Spreadsheet_Jihui_Sheng.csproj.CoreCompileInputs.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\obj\Debug\Spreadsheet_Jihui_Sheng.csproj.CopyComplete
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\obj\Debug\Spreadsheet_Jihui_Sheng.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\obj\Debug\Spreadsheet_Jihui_Sheng.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW4\Spreadsheet_Jihui_Sheng\obj\Debug\Spreadsheet_Jihui_Sheng.Form1.resources
