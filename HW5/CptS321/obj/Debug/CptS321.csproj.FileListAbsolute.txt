@@ -1,0 +1,10 @@
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW5\CptS321\obj\Debug\CptS321.csprojAssemblyReference.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW5\CptS321\obj\Debug\CptS321.csproj.CoreCompileInputs.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW5\CptS321\bin\Debug\CptS321.exe.config
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW5\CptS321\bin\Debug\CptS321.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW5\CptS321\bin\Debug\CptS321.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW5\CptS321\bin\Debug\Logic_Engine_DLL.dll
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW5\CptS321\bin\Debug\Logic_Engine_DLL.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW5\CptS321\obj\Debug\CptS321.csproj.CopyComplete
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW5\CptS321\obj\Debug\CptS321.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW5\CptS321\obj\Debug\CptS321.pdb
