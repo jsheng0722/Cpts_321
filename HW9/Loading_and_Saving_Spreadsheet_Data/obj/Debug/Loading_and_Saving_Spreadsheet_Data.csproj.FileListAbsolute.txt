@@ -1,0 +1,13 @@
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\obj\Debug\Loading_and_Saving_Spreadsheet_Data.csprojAssemblyReference.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\obj\Debug\Loading_and_Saving_Spreadsheet_Data.Form1.resources
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\obj\Debug\Loading_and_Saving_Spreadsheet_Data.Properties.Resources.resources
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\obj\Debug\Loading_and_Saving_Spreadsheet_Data.csproj.GenerateResource.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\obj\Debug\Loading_and_Saving_Spreadsheet_Data.csproj.CoreCompileInputs.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\bin\Debug\Loading_and_Saving_Spreadsheet_Data.exe.config
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\bin\Debug\Loading_and_Saving_Spreadsheet_Data.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\bin\Debug\Loading_and_Saving_Spreadsheet_Data.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\bin\Debug\Spreadsheet_LogicEngine_DLL.dll
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\bin\Debug\Spreadsheet_LogicEngine_DLL.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\obj\Debug\Loading_and_Saving_Spreadsheet_Data.csproj.CopyComplete
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\obj\Debug\Loading_and_Saving_Spreadsheet_Data.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW9\Loading_and_Saving_Spreadsheet_Data\obj\Debug\Loading_and_Saving_Spreadsheet_Data.pdb
