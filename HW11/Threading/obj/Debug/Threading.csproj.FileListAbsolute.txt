@@ -1,0 +1,10 @@
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW11\Threading\bin\Debug\Threading.exe.config
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW11\Threading\bin\Debug\Threading.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW11\Threading\bin\Debug\Threading.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW11\Threading\obj\Debug\Threading.csprojAssemblyReference.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW11\Threading\obj\Debug\Threading.Form1.resources
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW11\Threading\obj\Debug\Threading.Properties.Resources.resources
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW11\Threading\obj\Debug\Threading.csproj.GenerateResource.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW11\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW11\Threading\obj\Debug\Threading.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW11\Threading\obj\Debug\Threading.pdb
