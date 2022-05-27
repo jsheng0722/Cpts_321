@@ -1,0 +1,12 @@
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW7\Spreadsheet Formula Evaluation\obj\Debug\Spreadsheet Formula Evaluation.csprojAssemblyReference.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW7\Spreadsheet Formula Evaluation\obj\Debug\Spreadsheet_Formula_Evaluation.Properties.Resources.resources
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW7\Spreadsheet Formula Evaluation\obj\Debug\Spreadsheet Formula Evaluation.csproj.GenerateResource.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW7\Spreadsheet Formula Evaluation\obj\Debug\Spreadsheet Formula Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW7\Spreadsheet Formula Evaluation\bin\Debug\Spreadsheet Formula Evaluation.exe.config
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW7\Spreadsheet Formula Evaluation\bin\Debug\Spreadsheet Formula Evaluation.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW7\Spreadsheet Formula Evaluation\bin\Debug\Spreadsheet Formula Evaluation.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW7\Spreadsheet Formula Evaluation\bin\Debug\Spreadsheet_LogicEngine_DLL.dll
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW7\Spreadsheet Formula Evaluation\bin\Debug\Spreadsheet_LogicEngine_DLL.pdb
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW7\Spreadsheet Formula Evaluation\obj\Debug\Spreadsheet Formula Evaluation.csproj.CopyComplete
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW7\Spreadsheet Formula Evaluation\obj\Debug\Spreadsheet Formula Evaluation.exe
+C:\Users\Jihui\Documents\Cpts_321\cpts321-jsheng\HW7\Spreadsheet Formula Evaluation\obj\Debug\Spreadsheet Formula Evaluation.pdb
