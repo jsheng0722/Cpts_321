@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GkWOU4TAk1Txh85Ard9I7IB119G/iIx+7Tvffd1dcl8m1KCQJ1Pka95f8LD0Uv9sdbWuPkKkuvEB+haGofWPhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jihui\\Documents\\Cpts_321\\cpts321-jsheng\\HW10\\Spreadsheet_LogicEngine_DLL\\Spreadsheet_LogicEngine_DLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jihui\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jihui\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jihui\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
